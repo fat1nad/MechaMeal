@@ -1,4 +1,6 @@
 # MechaMeal
+***[Please note: This is a work in progress]***
+
 by Team Valkyrie as part of [Epipany Games' Developer's Jam 2.0](https://itch.io/jam/epiphany-game-jam-2)
 
 MechaMeal is a 2D level-based game in which the player is required to make the right food combinations.
