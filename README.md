@@ -26,15 +26,15 @@ With her teachings as your only guide, and your fingers your only tool, the fate
 
 ## Team Valkyrie:
 
-Game producer: Fatima Nadeem
+Game producer: [Fatima Nadeem](https://croft-f.itch.io/)
 
-Game designers: Fatima Nadeem, Muhammad Mooneeb Hussain, Zahab Ahmed Qureshi
+Game designers: [Fatima Nadeem](https://croft-f.itch.io/), [Muhammad Mooneeb Hussain](https://itch.io/profile/maskedmoon), [Zahab Ahmed Qureshi](https://zahabaq.itch.io/)
 
-Narrative designer & writer: Muhammad Mooneeb Hussain
+Narrative designer & writer: [Muhammad Mooneeb Hussain](https://itch.io/profile/maskedmoon)
 
-Developer: Fatima Nadeem
+Developer: [Fatima Nadeem](https://croft-f.itch.io/)
 
-Art director and artist: Zahab Ahmed Qureshi
+Art director and artist: [Zahab Ahmed Qureshi](https://zahabaq.itch.io/)
 
 ## Software Versions
 
